@@ -11,5 +11,6 @@
 {"name":"Djezzy🇩🇪DE7"},
 {"name":"Djezzy🇬🇧UK1"},
 {"name":"Djezzy🇬🇧UK2"},
-{"name":"Djezzy🇫🇷FR1"}
+{"name":"Djezzy🇫🇷FR1"},
+{"name":"Djezzy🇧🇪BE1"}
 ]
